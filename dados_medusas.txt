@@ -1,0 +1,50 @@
+saude	faixa_etaria	sexo	peso	toxina_injetada	porcentagem_queimada	fragilidade	classe	nematocistos	intensidade				
+S	J	1	53.6	40	70	A	S	20	Grave				
+S	J	0	47.9	30	40	M	C	15	Grave				
+S	J	1	57.8	40	30	A	C	25	Moderado				
+S	A	0	89.9	25	20	M	H	30	Moderado				
+S	A	1	78.5	50	35	A	S	30	Grave				
+S	A	0	56.9	40	20	B	H	20	Leve				
+S	A	0	62.3	35	50	A	H	15	Moderado				
+S	A	1	54.3	30	30	B	S	10	Leve				
+S	A	1	67	40	35	A	C	15	Grave				
+S	A	0	76.5	20	20	A	S	10	Moderado				
+S	I	0	67.8	40	80	M	H	35	Grave				
+S	I	1	78.6	25	45	A	H	20	Moderado				
+S	I	0	62.1	45	50	M	H	10	Moderado				
+NS	J	1	53.6	30	30	B	C	40	Grave				
+NS	J	0	59	50	20	A	C	50	Grave				
+NS	J	1	57.8	20	10	B	S	20	Leve				
+NS	J	0	89.9	30	25	M	H	40	Moderado				
+NS	J	1	78.5	20	10	M	S	20	Leve				
+NS	J	0	62	30	50	B	C	30	Moderado				
+NS	A	1	62.3	40	15	A	H	25	Moderado				
+NS	A	1	54.3	40	45	A	S	15	Moderado				
+NS	A	0	88	30	50	B	C	10	Moderado				
+NS	I	0	76.5	40	30	A	S	15	Grave				
+NS	I	1	66	25	20	B	H	10	Grave				
+NS	I	0	58.7	50	10	A	H	35	Leve				
+NS	I	1	89.4	40	25	A	H	20	Moderado				
+NS	I	0	61.9	35	10	M	C	10	Leve				
+NS	A	1	64.5	30	50	A	C	40	Moderado				
+NS	A	0	69.5	40	15	M	S	50	Moderado				
+NS	A	1	98.6	20	30	A	S	20	Moderado				
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
